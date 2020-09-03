@@ -1,0 +1,14 @@
+C:\Users\pavan\source\repos\MagicSchool\MagicSchool\bin\Debug\netcoreapp2.1\MagicSchool.deps.json
+C:\Users\pavan\source\repos\MagicSchool\MagicSchool\bin\Debug\netcoreapp2.1\MagicSchool.runtimeconfig.json
+C:\Users\pavan\source\repos\MagicSchool\MagicSchool\bin\Debug\netcoreapp2.1\MagicSchool.runtimeconfig.dev.json
+C:\Users\pavan\source\repos\MagicSchool\MagicSchool\bin\Debug\netcoreapp2.1\MagicSchool.dll
+C:\Users\pavan\source\repos\MagicSchool\MagicSchool\obj\Debug\netcoreapp2.1\MagicSchool.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\MagicSchool\MagicSchool\obj\Debug\netcoreapp2.1\MagicSchool.RazorAssemblyInfo.cache
+C:\Users\pavan\source\repos\MagicSchool\MagicSchool\obj\Debug\netcoreapp2.1\MagicSchool.RazorAssemblyInfo.cs
+C:\Users\pavan\source\repos\MagicSchool\MagicSchool\obj\Debug\netcoreapp2.1\MagicSchool.AssemblyInfoInputs.cache
+C:\Users\pavan\source\repos\MagicSchool\MagicSchool\obj\Debug\netcoreapp2.1\MagicSchool.AssemblyInfo.cs
+C:\Users\pavan\source\repos\MagicSchool\MagicSchool\obj\Debug\netcoreapp2.1\MagicSchool.RazorTargetAssemblyInfo.cache
+C:\Users\pavan\source\repos\MagicSchool\MagicSchool\bin\Debug\netcoreapp2.1\MagicSchool.pdb
+C:\Users\pavan\source\repos\MagicSchool\MagicSchool\obj\Debug\netcoreapp2.1\MagicSchool.dll
+C:\Users\pavan\source\repos\MagicSchool\MagicSchool\obj\Debug\netcoreapp2.1\MagicSchool.pdb
+C:\Users\pavan\source\repos\MagicSchool\MagicSchool\bin\Debug\netcoreapp2.1\MagicSchool.xml
